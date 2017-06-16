@@ -4,6 +4,8 @@
 ### 效果预览
 [click me](https://wohenxion.github.io/JRotate/)
 
+[参考项目](http://www.imooc.com/video/7504) 慕课网 “旋转木马”
+
 
 ### 兼容 ie8
 
