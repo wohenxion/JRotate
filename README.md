@@ -8,9 +8,9 @@
 
 
 ### 兼容 ie8
-
-#### 旋转木马必要样式
 ---
+#### 旋转木马必要样式
+
   
 
 ```
@@ -25,9 +25,9 @@
 .cal-item{position:absolute;left: 0;top: 0}
 ```
 
-
-#### html结构
 ---
+#### html结构
+
 
 
 
@@ -49,9 +49,9 @@
     <button type="button" class="pre-btn">prev</button>
 </div>
 ```
-
-####  引入必要的JS
 ---
+####  引入必要的JS
+
 
 > 因为依赖JQuery
 
